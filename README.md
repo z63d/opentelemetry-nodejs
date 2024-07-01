@@ -4,7 +4,9 @@
 
 OpenTelemetry で計装した Node.js アプリケーションのサンプル
 
-OpenTelemetry Collector へテレメトリデータを送ることを想定している
+OpenTelemetry Collector へテレメトリデータ（Traces）を送ることを想定している
+
+[OpenTelemetry の Getting Started](https://opentelemetry.io/docs/languages/js/getting-started/nodejs/) を参考にしている
 
 ### ローカルでの起動方法
 
